@@ -67,9 +67,8 @@ a{
 	float:left;
 }
 #mimage{
-	padding-top:70px;
-	height:800px;
-	width:1100px;
+	
+	width:100%;
 }
 ul {
     list-style-type: none;
