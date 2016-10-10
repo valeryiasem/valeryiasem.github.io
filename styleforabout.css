@@ -1,0 +1,122 @@
+/*styleforabout.css*/
+
+#header{
+	background-color:#ffc20e;
+	height:120px;
+}
+#header h2{
+	margin-left:15px;
+	font-family:Garamond;
+	color: #4c3c1f;
+	font-size:40px;
+	display:inline-block;
+}
+#himage{
+	float:right;
+	height:115px;
+	width:115px;
+	border-radius:100%;
+	margin-top:3px;
+	margin-right:25px;
+	
+}
+#heading{
+	font-family:Garamond;
+	color: #4c3c1f;
+	font-size:30px;
+	margin-left:60px;
+	margin-bottom:5px;
+}
+.letters{
+	font-family:Garamond;
+	color: #4c3c1f;
+	font-size:20px;
+}
+#mim1{
+	width:600px;
+}
+
+#text{
+	padding-left:20px;
+}
+#table{
+	float:left;
+	padding:10px;	
+	
+}
+
+#sidebar{
+	margin-top:70px;
+	margin-right:10px;
+	float:right;
+	position:relative;
+    display:inline-block;
+	width:60px;
+}
+.buttons{
+	border-radius:100%;
+	border: 1.5px solid #67737a;
+	text-align:center;
+	float:right;
+	height:70px;
+	width:70px;
+	margin-bottom:30px;
+	background-color:#ffc20e;
+	font-family:Garamond;
+	font-size:20px;
+}
+.buttons h2{
+	color:#67737a;
+	padding: auto;
+}
+.buttons :hover {
+	background-color:#4c3c1f;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#ef9b00;
+	display:block;
+	margin-bottom:50px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-family:Garamond;
+	color: #4c3c1f;
+	font-size:26px;
+}
+
+li a:hover {
+    background-color:#ffc20e;
+}
+#footer{
+	background-color:#ffc20e;
+	height:80px;
+	clear:both;
+	padding-top: 10px;
+}
+#footer h4{
+	font-family:Garamond;
+	color:#67737a;
+	font-size:21px;
+}
+#about{
+	background-color:#ffc200;
+}
